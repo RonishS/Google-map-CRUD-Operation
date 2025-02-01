@@ -1,11 +1,14 @@
- ## Google-map-CRUD-Operation-API-for-dummy-Website-
+# Google Maps CRUD Operation - API Testing Project
 
-Tools Used
-POSTMAN – Used for testing the API requests Resource Requirements
+# Overview
+This project demonstrates API testing of Google Maps Place APIs by performing CRUD (Create, Read, Update, Delete) operations. The tests validate responses, ensure data consistency, and check API functionality using various HTTP methods.
 
-All necessary resource details, including:
-Base URL, Resource, Query Parameters, HTTP Method, Sample Request Body, are provided in resources.pdf.
+# Features
+1.Create a Place: Adds a new place using the POST method.
+2.Get Place Details: Retrieves details of an existing place using the GET method.
+3.Update Place: Updates the address of an existing place using the PUT method.
+4.Delete Place: Removes a place from the server using the DELETE method.
 
-All tasks performed and their corresponding outcomes are documented in CRUD performed.pdf for reference.
-
-Disclaimer: This project is created solely for API testing practice. All rights and ownership of the original API belong to their respective owners. This repository is intended for learning purposes only.
+# Technologies Used
+Postman for API testing
+JSON for request and response handling
