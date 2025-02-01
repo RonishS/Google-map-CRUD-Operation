@@ -5,8 +5,11 @@ This project demonstrates API testing of Google Maps Place APIs by performing CR
 
 # Features
 1.Create a Place: Adds a new place using the POST method.
+
 2.Get Place Details: Retrieves details of an existing place using the GET method.
+
 3.Update Place: Updates the address of an existing place using the PUT method.
+
 4.Delete Place: Removes a place from the server using the DELETE method.
 
 # Technologies Used
