@@ -10,5 +10,6 @@ This project demonstrates API testing of Google Maps Place APIs by performing CR
 4.Delete Place: Removes a place from the server using the DELETE method.
 
 # Technologies Used
-Postman for API testing
+Postman for API testing 
+
 JSON for request and response handling
